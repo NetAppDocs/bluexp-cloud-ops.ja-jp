@@ -17,7 +17,7 @@ summary: 任意の Cloud Analyzer からクラウドコンピューティング�
 Cloud Analyzer を AWS 支払いアカウントに接続して、クラウドコンピューティングのコストの最適化を開始します。
 
 .手順
-. [ * 計算（ Compute ） ] をクリックする。
+. ナビゲーションメニューから* Extensions > Cloud ops *を選択します。
 . Add AWS Credentials to Start * をクリックします。
 . ページの手順に従って AWS アカウントを接続します。
 +
