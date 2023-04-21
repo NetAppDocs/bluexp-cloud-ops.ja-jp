@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Compute
+  name: BlueXP cloud ops
   platform: cloud
   internal:
     pdf_enabled: true
@@ -11,13 +11,13 @@ settings:
   langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr
 sidebar:
   entries:
-  - title: ドキュメントを計算します
+  - title: BlueXPのクラウド運用チームのドキュメント
     url: "/index.html"
   - title: リリースノート
     url: "/whats-new.html"
   - title: はじめに
     entries:
-    - title: コンピューティングサービスの詳細については、こちらをご覧ください
+    - title: BlueXPのクラウド運用についてご紹介します
       url: "/concept-compute.html"
     - title: AWS アカウントを接続します
       url: "/task-getting-started-compute.html"
@@ -35,11 +35,11 @@ homepage:
   tiles:
   - title: はじめに
     links:
-    - title: コンピューティングサービスの詳細については、こちらをご覧ください
+    - title: BlueXPのクラウド運用についてご紹介します
       url: concept-compute.html
     - title: AWS アカウントを接続します
       url: task-getting-started-compute.html
-  - title: コンピューティングサービスを使用する
+  - title: BlueXPのクラウド運用を活用
     links:
     - title: コンピューティングコストを分析
       url: task-analyze-costs.html

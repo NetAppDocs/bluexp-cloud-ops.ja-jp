@@ -9,9 +9,7 @@
   <block id="94bdad82453d71da22fcd69f47559c1c" category="paragraph">を活用して<block ref="f6403c1f0596662bb11f11c4ddde243f" category="inline-link-rx"></block>Cloud Manager では、クラウドコンピューティング関連のコストを高水準で分析し、コスト削減の可能性を特定できるようになりました。この情報は、 Cloud Manager の * Compute * サービスから入手できます。</block>
   <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link-macro">コンピューティングサービスの詳細については、こちらをご覧ください</block>
   <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">Cloud Manager のコスト分析ページを示すスクリーンショット。</block>
-  <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">コンピューティングサービスの詳細については、こちらをご覧ください</block>
   <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">SPOT の Cloud Analyzer サービス</block>
-  <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">Cloud Analyzer は、高度な分析を使用してクラウドコストを可視化し、分析するクラウドインフラ管理ソリューションです。ここでは、これらのコストを最適化する方法を示し、数回クリックするだけで、 Spot の継続的な最適化製品ポートフォリオを使用して最適化を実装できます。</block>
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">の機能</block>
   <block id="b13786f788868ed1bede397373dc9471" category="list-text">月の現在のコスト、月あたりの予測コスト、および節約損失を表示するコスト分析</block>
   <block id="22940f2df588dbac7740199a7b1c8cc9" category="list-text">推定される追加の削減額を含む、アカウント別の支出効率のビュー</block>
@@ -19,7 +17,6 @@
   <block id="902e65d33784bd8924eb05e622aa2dda" category="section-title">サポートされているクラウドプロバイダ</block>
   <block id="c2a13a8b969b516ac9af28a61843732c" category="paragraph">このサービスは AWS でサポートされています。</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">コスト</block>
-  <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">[* Compute] をクリックし、 AWS 管理アカウントに接続します。</block>
   <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">ネットアップでは、お客様の環境を次のように設定し</block>
   <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">Spot プラットフォームで組織を作成します。</block>
   <block id="160fee406155d1c4308599be28a10850" category="list-text">お客様を歓迎する E メールを Spot に送信します。</block>
@@ -34,7 +31,6 @@
   <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">アカウントを接続したら、クラウドコンピューティングコストの分析を表示して、過去、現在、将来のクラウドコストに関する分析情報を入手できます。</block>
   <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">コスト分析を表示します</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">手順</block>
-  <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">[ * 計算（ Compute ） ] をクリックする。</block>
   <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">コスト分析を表示して、コンピューティングコストに関する分析情報を入手できます。</block>
   <block id="3f994038d6dd09b875518b9b5d38a005" category="list-text">月から日までのコスト</block>
   <block id="95a217721be0bcb767d045a065ccf8aa" category="list-text">現在の月の初めから現在までのワークロードの総コスト。</block>
@@ -78,14 +74,11 @@
   <block id="fbe402e9579140daae0c0cddf837f4b4" category="paragraph"><block ref="fbe402e9579140daae0c0cddf837f4b4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">コンピューティングコストを分析</block>
   <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">Cloud Analyzer が AWS アカウントデータの処理を開始します。複数のアカウントがある場合、 Cloud Analyzer は管理アカウントのすべてのリンクされたアカウントの読み取り専用機能から開始します。これらのアカウントの節約の可能性に関する詳細を確認するには、これらのアカウントを接続する必要があります。アカウントの接続に関する詳細については、以下を参照してください <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>。</block>
-  <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">コンピューティング関連のドキュメント</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">サポートに登録します</block>
-  <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">ドキュメントを計算します</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">はじめに</block>
   <block id="39b47babddc2784c0d74d47260b51730" category="sidebar">AWS アカウントを接続します</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識とサポート</block>
-  <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">コンピューティングサービスを使用する</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">ブログコミュニティ</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">ネットアップコミュニティ</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">クラウドに関する Web セミナー</block>
@@ -114,7 +107,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知ファイルには、ネットアップソフトウェアで使用されるサードパーティの著作権およびライセンスに関する情報が記載されています。</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">次のオプションは、 1 日 24 時間、週 7 日間無料でご利用いただけます。</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">ナレッジベース</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">コミュニティ</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">ドキュメント</block>
@@ -169,7 +161,6 @@
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"選択したサービスに対してケースを作成する権限がありません"</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">製品内のチャットを使用します</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">テクニカル以外のケースをに送信します<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="acb1895ec4c887192c38fae22446be51" category="summary">クラウドコンピューティング関連支出のコスト分析を表示し、BlueXP（旧Cloud Manager）によるコスト削減の可能性を確認できます。</block>
   <block id="02c7be9d19094be861ed6d5c868ab6d9" category="list-text">ナビゲーションメニューから* Extensions &gt; Cloud ops *を選択します。</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">ネットアップテクニカルサポートでサポートケースをオープンするには、まずNetApp Support Site アカウントをBlueXPに追加し、サポートに登録する必要があります。</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">ネットアップテクニカルサポートでサポートケースをオープンするには、まずNetApp Support Site （NSS）アカウントをBlueXPに追加し、サポートに登録する必要があります。</block>
@@ -208,10 +199,6 @@
   <block id="7729b44167439e24787c999afabf9b49" category="section-title">Cloud Analyzer とBlueXPの連携</block>
   <block id="da4f6f67f2d6874fa25ae3476a15be79" category="paragraph">Cloud Analyzer とBlueXPとの統合は、以下のように機能します。</block>
   <block id="3a8d3e2363f0495ab293d54bebc7e4dd" category="paragraph">BlueXPで使用するのと同じシングルサインオンの資格情報を使用して、Spotサービスにログインできます。</block>
-  <block id="fea17a3edb0c3ee07348be9d64fa874a" category="list-text">BlueXPでは、コンピューティングページが更新され、その情報を使用して過去、現在、および将来のクラウドコストに関する分析情報を取得できます。</block>
-  <block id="77c0115810e9ed3bfd3337acc96198fd" category="summary">BlueXP（旧Cloud Manager）のComputeサービスの新機能について説明します。</block>
-  <block id="bcb152582247346e2f453fce02c1fc3c" category="inline-link-macro">BlueXP 3.9に関する注意事項</block>
-  <block id="03f975e839e4278228720a5d19656288" category="paragraph"><block ref="03f975e839e4278228720a5d19656288" category="inline-link-macro-rx"></block></block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXPブログ</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">BlueXPのすべてのマニュアル</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">結果</block>
@@ -275,4 +262,17 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">これはシステムによって生成されたIDで、電子メールにマッピングされます。[*NSS Management*]ページで、から電子メールを表示できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">ログイン認証情報トークンを更新する必要がある場合は、の[認証情報の更新*]オプションも使用できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">このオプションを使用すると、再度ログインするように求められます。これらのアカウントのトークンは90日後に期限切れになります。このことを通知する通知が投稿されます。</block>
+  <block id="c760999778e3f9fd0e0688bdde1d1291" category="list-text">[拡張機能]&gt;[クラウド運用]*をクリックします。</block>
+  <block id="c89902de22e38dc537fc0ceae8ac9bf3" category="summary">BlueXPを使用して、クラウドコンピューティングの支出に関するコスト分析を確認し、潜在的な削減効果を特定できます。</block>
+  <block id="b54b9d75f69467d65862b2ee5b79fe70" category="doc">BlueXPのクラウド運用に関するドキュメント</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="42f86b3ffab4eb4b08ad9639ec6d721d" category="summary">BlueXPのクラウド運用の最新情報をご確認ください。</block>
+  <block id="dd335c23d7ed4d65e69465f4891a50cb" category="doc">BlueXPのクラウド運用についてご紹介します</block>
+  <block id="a1ff0729c54ef4b0c64a2dc4f6b6c7f7" category="paragraph">Cloud Analyzer は、高度な分析を使用してクラウドコストを可視化し、分析するクラウドインフラ管理ソリューションです。このスライドでは、コストを最適化できる領域を示し、Spotの継続的最適化製品ポートフォリオを使用して数回のクリックで最適化を実装できます。</block>
+  <block id="06193cf65f29a0243e8f353665b4a2dd" category="list-text">[拡張機能]&gt;[クラウド運用]*をクリックして、AWS管理アカウントに接続します。</block>
+  <block id="dc5847ea8043d8fb75c62a9f7c5b5524" category="list-text">BlueXPでは、クラウド運用ページが更新され、その情報を使用して過去、現在、将来のクラウドコストに関する分析情報を得ることができます。</block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">BlueXPに関する注意事項</block>
+  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
+  <block id="47d92e57191853864564085dd2a3b861" category="sidebar">BlueXPのクラウド運用チームのドキュメント</block>
+  <block id="1032c52469c9cc970e54549326a7172d" category="sidebar">BlueXPのクラウド運用を活用</block>
 </blocks>

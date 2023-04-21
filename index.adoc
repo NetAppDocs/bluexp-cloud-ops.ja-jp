@@ -2,10 +2,10 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: 'View a cost analysis of your cloud compute spending and identify potential savings right from BlueXP (formerly Cloud Manager).' 
-summary: クラウドコンピューティング関連支出のコスト分析を表示し、BlueXP（旧Cloud Manager）によるコスト削減の可能性を確認できます。 
+lead: View a cost analysis of your cloud compute spending and identify potential savings right from BlueXP. 
+summary: BlueXPを使用して、クラウドコンピューティングの支出に関するコスト分析を確認し、潜在的な削減効果を特定できます。 
 ---
-= コンピューティング関連のドキュメント
+= BlueXPのクラウド運用に関するドキュメント
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

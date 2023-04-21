@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
-summary: BlueXP（旧Cloud Manager）のComputeサービスの新機能について説明します。 
+summary: BlueXPのクラウド運用の最新情報をご確認ください。 
 ---
 = 新機能
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: BlueXP（旧Cloud Manager）のComputeサービスの新機能につい
 
 
 [role="lead"]
-BlueXP（旧Cloud Manager）のComputeサービスの新機能について説明します。
+BlueXPのクラウド運用の最新情報をご確認ください。
 
 
 

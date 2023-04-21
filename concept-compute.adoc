@@ -4,7 +4,7 @@ permalink: concept-compute.html
 keywords: concepts, how cloud analyzer works, compute, compute costs, compute savings 
 summary: BlueXPでは、SpotのCloud Analyzer サービスを活用することで、クラウドコンピューティング関連のコストを高度に分析し、コスト削減の可能性を特定することができます。 
 ---
-= コンピューティングサービスの詳細については、こちらをご覧ください
+= BlueXPのクラウド運用についてご紹介します
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -16,7 +16,7 @@ summary: BlueXPでは、SpotのCloud Analyzer サービスを活用すること�
 [role="lead"]
 を活用して https://spot.io/products/cloud-analyzer/["SPOT の Cloud Analyzer サービス"^]BlueXPでは、クラウドコンピューティング関連のコストを高レベルで分析し、コスト削減の可能性を特定することができます。
 
-Cloud Analyzer は、高度な分析を使用してクラウドコストを可視化し、分析するクラウドインフラ管理ソリューションです。ここでは、これらのコストを最適化する方法を示し、数回クリックするだけで、 Spot の継続的な最適化製品ポートフォリオを使用して最適化を実装できます。
+Cloud Analyzer は、高度な分析を使用してクラウドコストを可視化し、分析するクラウドインフラ管理ソリューションです。このスライドでは、コストを最適化できる領域を示し、Spotの継続的最適化製品ポートフォリオを使用して数回のクリックで最適化を実装できます。
 
 
 
@@ -45,7 +45,7 @@ Cloud Analyzer は、高度な分析を使用してクラウドコストを可�
 
 Cloud Analyzer とBlueXPとの統合は、以下のように機能します。
 
-. [* Compute] をクリックし、 AWS 管理アカウントに接続します。
+. [拡張機能]>[クラウド運用]*をクリックして、AWS管理アカウントに接続します。
 . ネットアップでは、お客様の環境を次のように設定し
 +
 .. Spot プラットフォームで組織を作成します。
@@ -56,7 +56,7 @@ BlueXPで使用するのと同じシングルサインオンの資格情報を�
 .. Cloud Analyzer が AWS アカウントデータの処理を開始します。
 
 
-. BlueXPでは、コンピューティングページが更新され、その情報を使用して過去、現在、および将来のクラウドコストに関する分析情報を取得できます。
+. BlueXPでは、クラウド運用ページが更新され、その情報を使用して過去、現在、将来のクラウドコストに関する分析情報を得ることができます。
 . 任意のタイミングで [* Get Full Analysis] をクリックすると、 Spot の Cloud Analyzer が表示され、クラウド関連の支出と削減効果を詳細に分析できます。
 
 
