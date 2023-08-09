@@ -26,7 +26,7 @@ Cloud Analyzer を AWS 支払いアカウントに接続して、クラウドコ
 .. CloudFormation テンプレートを実行します。
 .. スポットロール配線を貼り付けます。
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["これらの手順の詳細を確認してください"^]。
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["これらの手順の詳細を確認してください"^]。
 
 +
 image:screenshot_compute_add_account.gif["接続ページで使用可能な各フィールドを示すスクリーンショット。"]
