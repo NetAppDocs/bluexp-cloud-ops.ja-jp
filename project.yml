@@ -14,7 +14,9 @@ sidebar:
   - title: BlueXPのクラウド運用チームのドキュメント
     url: "/index.html"
   - title: リリースノート
-    url: "/whats-new.html"
+    entries:
+    - title: 新機能
+      url: "/whats-new.html"
   - title: はじめに
     entries:
     - title: BlueXPのクラウド運用についてご紹介します

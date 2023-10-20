@@ -26,9 +26,7 @@
   <block id="927d8afbddd6abdbda7791916303bd5e" category="paragraph">Cloud Analyzer データは保存中に暗号化され、どのアカウントのクレデンシャルも保存されません。</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">ヘルプを表示します</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link-macro"></block>
-  <block id="0110949a431061ee668054b5ab98627e" category="summary">アカウントを接続したら、クラウドコンピューティングコストの分析を表示して、過去、現在、将来のクラウドコストに関する分析情報を入手できます。</block>
   <block id="2a4220102e5972b56988182c09f604aa" category="doc">コンピューティングコストを分析</block>
-  <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">アカウントを接続したら、クラウドコンピューティングコストの分析を表示して、過去、現在、将来のクラウドコストに関する分析情報を入手できます。</block>
   <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">コスト分析を表示します</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">手順</block>
   <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">コスト分析を表示して、コンピューティングコストに関する分析情報を入手できます。</block>
@@ -57,8 +55,6 @@
   <block id="be047dc506ce8de907952c21921ad701" category="list-text"><block ref="be047dc506ce8de907952c21921ad701" category="inline-link-rx"></block></block>
   <block id="17dd96462b10711049d52dedde6ddc2b" category="inline-link">Cloud の使用方法については、 Spot のドキュメントを参照してください 分析装置</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法的通知</block>
-  <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">任意の Cloud Analyzer からクラウドコンピューティングコストを詳細に分析するには、いくつかの手順を実行します。</block>
-  <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">Cloud Analyzer を AWS アカウントに接続します</block>
   <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">Cloud Analyzer を AWS 支払いアカウントに接続して、クラウドコンピューティングのコストの最適化を開始します。</block>
   <block id="82c17f884916312cf836be619c0f30b3" category="list-text">Add AWS Credentials to Start * をクリックします。</block>
   <block id="d26bbc99ee4f03459f79c4515854e01c" category="list-text">ページの手順に従って AWS アカウントを接続します。</block>
@@ -282,4 +278,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">クラウドプロバイダのファイルサービスのサポート</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">クラウドプロバイダのファイルサービスとそのインフラ、またはサービスを使用する解決策に関連するテクニカルサポートについては、該当する製品のBlueXPドキュメントの「困ったときは」を参照してください。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXPおよびそのストレージソリューションとサービスに固有のテクニカルサポートを受けるには、以下に記載されているサポートオプションを使用してください。</block>
+  <block id="78567730cb8ddb4065ae0d589df0f0a1" category="summary">アカウントを接続したら、BlueXPから直接コスト分析を確認し、リンクをクリックしてCloud Analyzerの詳細な分析情報を入手できます。</block>
+  <block id="54e873db6c3412f41b0a199465c8d89e" category="paragraph">クラウドコンピューティングのコスト分析を表示して、過去、現在、将来のクラウドコストを分析できます。</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新機能</block>
 </blocks>

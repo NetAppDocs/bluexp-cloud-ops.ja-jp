@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: task-getting-started-compute.html 
-keywords: compute, cloud insights, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
-summary: 任意の Cloud Analyzer からクラウドコンピューティングコストを詳細に分析するには、いくつかの手順を実行します。 
+keywords: compute, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
+summary: Cloud Analyzer を AWS 支払いアカウントに接続して、クラウドコンピューティングのコストの最適化を開始します。 
 ---
-= Cloud Analyzer を AWS アカウントに接続します
+= AWS アカウントを接続します
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

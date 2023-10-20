@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-analyze-costs.html 
 keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
-summary: アカウントを接続したら、クラウドコンピューティングコストの分析を表示して、過去、現在、将来のクラウドコストに関する分析情報を入手できます。 
+summary: アカウントを接続したら、BlueXPから直接コスト分析を確認し、リンクをクリックしてCloud Analyzerの詳細な分析情報を入手できます。 
 ---
 = コンピューティングコストを分析
 :hardbreaks:
@@ -14,11 +14,13 @@ summary: アカウントを接続したら、クラウドコンピューティ�
 
 
 [role="lead"]
-アカウントを接続したら、クラウドコンピューティングコストの分析を表示して、過去、現在、将来のクラウドコストに関する分析情報を入手できます。
+アカウントを接続したら、BlueXPから直接コスト分析を確認し、リンクをクリックしてCloud Analyzerの詳細な分析情報を入手できます。
 
 
 
 == コスト分析を表示します
+
+クラウドコンピューティングのコスト分析を表示して、過去、現在、将来のクラウドコストを分析できます。
 
 .手順
 . [拡張機能]>[クラウド運用]*をクリックします。
