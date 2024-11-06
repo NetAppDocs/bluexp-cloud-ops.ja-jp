@@ -40,4 +40,4 @@ Spot の新しい「 * ストレージ運用 * 」セクションでは、 Cloud
 
 https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["コンピューティングサービスの詳細については、こちらをご覧ください"]。
 
-image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["Cloud Manager のコスト分析ページを示すスクリーンショット。"]
+image:screenshot_compute_dashboard.gif["Cloud Manager のコスト分析ページを示すスクリーンショット。"]

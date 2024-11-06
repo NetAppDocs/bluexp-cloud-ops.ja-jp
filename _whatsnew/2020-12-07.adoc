@@ -1,0 +1,11 @@
+= Cloud Manager と Spot の間のナビゲーション
+:allow-uri-read: 
+
+
+
+
+=== Cloud Manager と Spot の間のナビゲーション
+
+Cloud Manager と Spot の間の移動が簡単になりました。
+
+Spot の新しい「 * ストレージ運用 * 」セクションでは、 Cloud Manager に直接移動できます。作業が完了したら、 Cloud Manager の * Compute * タブから Spot に戻ることができます。
